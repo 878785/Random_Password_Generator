@@ -59,4 +59,4 @@ The objective of this project is to practise JavaScript, DOM manipulation, event
 
 ## 👩‍💻 Author
 
-Created as my second web development project while learning HTML, CSS, and JavaScript.
+Created as my web development project while learning HTML, CSS, and JavaScript.
